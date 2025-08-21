@@ -7,12 +7,12 @@ SQL queries for KPIs and metrics.
 Building an interactive dashboard in Power BI.
 
 ## Structure
-notebooks/ → data processing (Pizza_cleaned.ipynb)
-data/ → cleaned dataset (pizza_cleaned.csv)
-sql/ → SQL queries for KPIs and charts
-dashboard/ → Power BI dashboard (Pizza_Dashboard.pbix)
-screenshots/ → dashboard preview
-README.md → project description
+- notebooks/ → data processing (Pizza_cleaned.ipynb)
+- data/ → cleaned dataset (pizza_cleaned.csv)
+- sql/ → SQL queries for KPIs and charts
+- dashboard/ → Power BI dashboard (Pizza_Dashboard.pbix)
+ screenshots/ → dashboard preview
+ README.md → project description
 
 ## Key KPIs
 - Total Revenue: **817,86K**
@@ -21,11 +21,11 @@ README.md → project description
 - Average Pizzas per Order: **2,32**
 
 ## Visualizations
-Sales by weekday and hour
-Revenue by pizza category and size
-Best & worst selling products
-Average price per product
-Slicers for filtering
+- Sales by weekday and hour
+- Revenue by pizza category and size
+- Best & worst selling products
+- Average price per product
+- Slicers for filtering
 
 ## Tools Used
 - Python (Pandas, Jupyter Notebook)
@@ -33,6 +33,6 @@ Slicers for filtering
 - Power BI (Dashboard, Slicers)
 
 ## Screenshots
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](Screenshots/dashboard_preview.png)
 
 ---
